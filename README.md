@@ -1,7 +1,7 @@
 # Computer-Vision-Using-OpenCV-and-Python
 
 ### Demo Video
-https://youtu.be/OrtRP0GAvAc
+https://www.youtube.com/watch?v=1ovHCveDFM4
 
 ### Dependency installation
 *** ultralytics can be installed only on python 3.9 or 3.10 **** 
